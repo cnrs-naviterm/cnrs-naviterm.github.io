@@ -18,10 +18,21 @@ Le projet **NaviTerm** ambitionne d’accélérer la montée en compétence des 
 
 Les articles scientifiques produits dans le cadre du projet NaviTerm sont disponibles dans cette section.
 
+- Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille and Richard Dufour.
+  **ACL-rlg: Un dataset pour la génération de listes de lecture.**
+  *Traitement Automatique des Langues Naturelles (TALN) 2025.*
+
+- Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille and Richard Dufour.
+  **ACL-rlg: A Dataset for Reading List Generation.**
+  *International Conference on Computational Linguistics (COLING) 2025.*<br/>
+  [📄 (ACL Anthology)](https://aclanthology.org/2025.coling-main.327) --
+  [📄 (HAL)](https://hal.science/hal-04852617v1)
+
 - Florian Boudin, Akiko Aizawa. 
   **Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts.**
   *Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings 2024.*<br/>
-  [📄 (arXiv)](http://arxiv.org/abs/2409.13266)
+  [📄 (ACL Anthology)](https://aclanthology.org/2024.findings-emnlp.33) --
+  [📄 (HAL)](https://hal.science/hal-04837895v1)
 
 - Julien Aubert-Béduchaud. 
   **État de l’art des méthodes de génération automatique de listes de lectures.**
